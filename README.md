@@ -6,3 +6,5 @@ To delve deeper into this hypothesis, a clearer understanding of the historical 
 Suitable results can be achieved by looking at major global events throughout the twentieth century. 
 To do so, you’ll need to give a visualization and an analysis of the chain of events that led to the current state of affairs. 
 To be effective, your visualization must highlight these past relationships. This way, other researchers can understand and tie your findings into the final report.
+
+first important question: what are major events, from which perspective
